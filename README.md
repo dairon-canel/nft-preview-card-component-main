@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flexbox-5jksMCO0XB)
 - Live Site URL: [https://frontendmentor-task4-daironcanel.netlify.app/](https://frontendmentor-task4-daironcanel.netlify.app/)
 
 ## My process
